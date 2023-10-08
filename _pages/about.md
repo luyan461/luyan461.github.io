@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to e-meet you! I am Yan Lu, and currently a Data Scientist at Amazon.
+Nice to e-meet you! I am Yan Lu, and currently a Data Scientist with both analytical thinking in solving quantitative challenges and hands-on skills in implementing advanced ML/AI solutions. My past experiences include
+- driving risks for usage-based insurance through smart phone sensors
+- time series forecasting for demand and planning
+- computational materials engineering for metal casting processes
