@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Nice to e-meet you! I am Yan Lu, and currently a Data Scientist at Amazon."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
