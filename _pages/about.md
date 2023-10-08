@@ -14,5 +14,5 @@ Nice to e-meet you! I am Yan Lu, and currently a data enthusiast with both analy
 - computational materials engineering for metal casting processes
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vHPDWfxO3JCVhW3wzeg9Vkj_aFySbHbwLpo1H-H9QiA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=REBsrO_bJzJPqTiDZkOjDQr86n6bqSOUi3iYzRKhtok&cl=ffffff&w=a"></script>
 
