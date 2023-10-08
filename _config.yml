@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yan Lu"
-  avatar           : "profile.png"
+  avatar           : "DS_background.jpg"
   bio              : "Data Scientist"
   location         : "Seattle, WA USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BbZz4yoAAAAJ&hl=en"
-  email            :
+  email            :  luyan461@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/luyan461"
+  github           : "luyan461"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/metalboy/
+  linkedin         : "metalboy"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
