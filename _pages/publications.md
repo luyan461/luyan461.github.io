@@ -53,11 +53,11 @@ Conference
 Longshaokan Wang, Lingda Wang, Mina Georgieva, Paulo Machado, Abinaya Ulagappa, Safwan Ahmed, **Yan Lu**, Arjun Bakshi, and Farhad Ghassemi <br>
 In *Proceedings of 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022 <br>
 
-[Simulation and experimental evaluation of H13 steel thermal fatigue life in die casting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Yan-Lu-38/publication/328462386_Simulation_and_Experimental_Evaluation_of_H13_Steel_Thermal_Fatigue_Life_in_Die_Casting/links/5bcf405992851c1816bb23b6/Simulation-and-Experimental-Evaluation-of-H13-Steel-Thermal-Fatigue-Life-in-Die-Casting.pdf)<br>
+[Simulation and experimental evaluation of H13 steel thermal fatigue life in die casting](https://www.researchgate.net/publication/328462386_Simulation_and_Experimental_Evaluation_of_H13_Steel_Thermal_Fatigue_Life_in_Die_Casting)<br>
 **Yan Lu**, Alan A. Luo, Keith Ripplinger, and Duane Detwiler <br>
 In *North American Die Casting Association (NADCA) Transactions*, 2018 <br>
 
-[Process simulation and experimental validation of resin-bonded silica sand mold casting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Yan-Lu-38/publication/319632130_Process_Simulation_and_Experimental_Validation_of_Resin-Bonded_Silica_Sand_Mold_Casting/links/59b6ef0c0f7e9bd4a7fd40b0/Process-Simulation-and-Experimental-Validation-of-Resin-Bonded-Silica-Sand-Mold-Casting.pdf)<br>
+[Process simulation and experimental validation of resin-bonded silica sand mold casting](https://www.researchgate.net/publication/319632130_Process_Simulation_and_Experimental_Validation_of_Resin-Bonded_Silica_Sand_Mold_Casting)<br>
 **Yan Lu**, Huimin Wang, Alan A. Luo, and Keith Ripplinger <br>
 In *American Foundry Society (AFS) Transactions*, 2017 <br>
 
