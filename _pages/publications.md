@@ -18,9 +18,21 @@ author_profile: true
 
 Journal
 ------
+[Three-dimensional visualization and quantification of microporosity in aluminum castings by X-ray micro-computed tomography](https://www.sciencedirect.com/science/article/abs/pii/S1005030220306228) <br>
+Cheng Gu, **Yan Lu**, and Alan A. Luo <br>
+*Journal of Materials Science & Technology, 2021* <br>
+
+[Predicting gas and shrinkage porosity in solidification microstructure: A coupled three-dimensional cellular automaton model](https://www.sciencedirect.com/science/article/abs/pii/S1005030220302073) <br>
+Cheng Gu, Colin D Ridgeway, Emre Cinkilic, **Yan Lu**, and Alan A. Luo <br>
+*Journal of Materials Science & Technology, 2020* <br>
+
 [A new fatigue life model for thermally-induced cracking in H13 steel dies for die casting](https://www.sciencedirect.com/science/article/abs/pii/S0924013619301451) <br>
 **Yan Lu**, Keith Ripplinger, Xuejun Huang, Yu Mao, Duane Detwiler, and Alan A. Luo <br>
 *Journal of Materials Processing Technology, 2019* <br>
+
+[Three-dimensional cellular automaton simulation of coupled hydrogen porosity and microstructure during solidification of ternary aluminum alloys](https://www.nature.com/articles/s41598-019-49531-0) <br>
+Cheng Gu, **Yan Lu**, Colin D. Ridgeway, Emre Cinkilic, and Alan A. Luo <br>
+*Scientific Reports, 2019* <br>
 
 
 Conference
